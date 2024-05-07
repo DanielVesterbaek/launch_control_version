@@ -21,7 +21,7 @@ bl_info = {
     "category": "Object",
     "author": "Daniel Vesterbaek, Gabriela Rodriguez, Blastframe",
     "blender": (4, 1, 0),
-    "version": (1, 6, 0),
+    "version": (1, 6, 1),
     "location": "Viewport 'N-Panel'",
     "description": "Rig, Animate and Calculate Physics for your Vehicles!"    
     }
